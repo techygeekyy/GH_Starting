@@ -1,2 +1,2 @@
 # GH_Starting
-This is my starting journey in Git Hub.
+Git Hub repository testing phase.
